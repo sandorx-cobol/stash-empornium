@@ -1,4 +1,4 @@
-{# 20250620 -#}
+{# 20250929 -#}
 [bg=#202b33][color=#F5F8FA][font=Helvetica][table=nopad,nball,vat][tr][td=#202b33][/td]
 
 
@@ -23,7 +23,7 @@
 
 
 {% for name, details in performers.items() -%}
-[td=#30404d,124px][img=123]{% if details["image_remote_url"] %}{{details["image_remote_url"]}}{% else %}https://fapping.empornium.sx/images/2023/04/06/imageR8b7P.png{% endif %}[/img][url=/torrents.php?taglist={{details["tag"]}}][size=3][/size][color=white][bg=90%]{{name}}
+[td=#30404d,124px][img=123]{% if details["image_remote_url"] %}{{details["image_remote_url"]}}{% else %}https://hamster.is/images/2025/09/29/imageR8b7P.png{% endif %}[/img][url=/torrents.php?taglist={{details["tag"]}}][size=3][/size][color=white][bg=90%]{{name}}
 [br][/bg][/color][/url][/td]
 {% if not loop.last %}
 [td=8px][/td]
@@ -58,6 +58,6 @@
 [/spoiler]
 
 [/size]
-[img]https://fapping.empornium.sx/images/2022/02/24/space.png[/img]
+[img]https://hamster.is/images/2025/09/29/space.png[/img]
 [/bg][/td][td=#202b33][/td]
 [/tr][/table][/font][/color][/bg]
