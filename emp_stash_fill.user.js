@@ -9,6 +9,8 @@
 // @match        https://www.femdomcult.org/upload.php*
 // @match        https://femdomcult.org/upload.php*
 // @match        https://www.happyfappy.org/upload.php*
+// @match        https://happyfappy.net/upload.php*
+// @match        https://www.happyfappy.net/upload.php*
 // @match        https://www.pornbay.org/upload.php*
 // @match        https://pornbay.org/upload.php*
 // @match        https://www.empornium.is/upload.php*
@@ -179,8 +181,8 @@ function getTracker() {
             return "EMP"
         case "femdomcult.org":
             return "FC"
-        case "happyfappy.org":
-        case "www.happyfappy.org":
+        case "happyfappy.net":
+        case "www.happyfappy.net":
             return "HF"
         case "www.enthralled.me":
             return "ENT"
