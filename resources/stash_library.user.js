@@ -8,7 +8,7 @@ const TRACKERS = [
     "www.empornium.is",
     "www.empornium.sx",
     "femdomcult.org",
-    "www.happyfappy.org",
+    "happyfappy.net",
     "www.enthralled.me",
     "pornbay.org",
 ];
